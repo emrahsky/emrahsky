@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emrah</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h1>Hi 👋, I'm Emrah</h1>
+<h3>A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **solidty, web3 and javascript.**
 
